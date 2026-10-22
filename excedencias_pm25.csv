@@ -2,16 +2,9 @@ fecha,zona,estacion,unidades,pm25_24h,hora_24h,pm25_1h,hora_1h
 2009-04-07,WEST,Kennedy,µg/m³,54.6,06 p.m.,91.3,10 a.m.
 2009-04-08,WEST,Kennedy,µg/m³,50.9,01 a.m.,49.3,11 a.m.
 2009-06-03,WEST,Puente Aranda,µg/m³,55.2,03 p.m.,70.2,10 a.m.
-2009-06-05,WEST,Puente Aranda,µg/m³,72.2,07 p.m.,125.2,09 a.m.
-2009-06-06,WEST,Puente Aranda,µg/m³,72.9,05 a.m.,96.0,09 a.m.
 2009-06-07,WEST,Puente Aranda,µg/m³,58.0,01 a.m.,88.2,09 a.m.
 2009-06-08,WEST,Puente Aranda,µg/m³,55.8,12 a.m.,116.0,12 a.m.
-2009-06-09,WEST,Puente Aranda,µg/m³,98.6,12 p.m.,271.8,08 a.m.
-2009-06-10,WEST,Puente Aranda,µg/m³,85.4,01 a.m.,141.7,09 a.m.
 2009-09-13,WEST,Kennedy,µg/m³,50.4,06 p.m.,133.3,05 a.m.
-2009-12-25,WEST,Kennedy,µg/m³,77.6,09 p.m.,241.0,04 a.m.
-2009-12-26,WEST,Kennedy,µg/m³,72.6,01 a.m.,44.5,12 a.m.
-2010-01-01,WEST,Kennedy,µg/m³,73.1,09 p.m.,146.2,05 a.m.
 2010-01-02,WEST,Kennedy,µg/m³,64.3,01 a.m.,66.2,10 a.m.
 2010-01-04,WEST,Kennedy,µg/m³,58.0,12 p.m.,145.0,09 a.m.
 2010-01-05,WEST,Kennedy,µg/m³,57.3,01 a.m.,133.3,09 a.m.
@@ -22,8 +15,8 @@ fecha,zona,estacion,unidades,pm25_24h,hora_24h,pm25_1h,hora_1h
 2010-01-24,WEST,Kennedy,µg/m³,51.2,06 a.m.,64.5,06 a.m.
 2010-02-13,WEST,Kennedy,µg/m³,54.8,10 p.m.,87.8,09 a.m.
 2010-02-14,WEST,Kennedy,µg/m³,54.3,01 a.m.,59.8,12 a.m.
-2010-02-15,WEST,Kennedy,µg/m³,72.1,12 a.m.,108.7,09 a.m.
-2010-02-16,WEST,Kennedy,µg/m³,77.7,06 a.m.,106.3,09 a.m.
+2010-02-15,SOUTH,Tunal,µg/m³,52.8,12 a.m.,121.0,10 a.m.
+2010-02-16,SOUTH,Tunal,µg/m³,57.6,08 a.m.,119.5,01 p.m.
 2010-02-17,WEST,Kennedy,µg/m³,66.7,01 a.m.,84.8,11 a.m.
 2010-02-18,WEST,Kennedy,µg/m³,62.8,09 a.m.,107.0,09 a.m.
 2010-02-19,WEST,Kennedy,µg/m³,51.8,01 a.m.,71.3,09 a.m.
@@ -40,7 +33,7 @@ fecha,zona,estacion,unidades,pm25_24h,hora_24h,pm25_1h,hora_1h
 2010-03-17,WEST,Kennedy,µg/m³,55.7,07 a.m.,81.7,07 a.m.
 2010-03-24,WEST,Kennedy,µg/m³,50.5,08 a.m.,82.2,08 a.m.
 2010-03-26,WEST,Kennedy,µg/m³,63.9,12 a.m.,82.3,09 a.m.
-2010-03-27,WEST,Kennedy,µg/m³,71.2,12 p.m.,90.5,10 a.m.
+2010-03-27,CENTRAL,Centro de Alto Rendimiento,µg/m³,54.6,07 a.m.,62.1,01 a.m.
 2010-03-28,WEST,Kennedy,µg/m³,61.7,01 a.m.,52.5,02 a.m.
 2010-04-01,WEST,Kennedy,µg/m³,66.6,03 p.m.,110.0,02 a.m.
 2010-04-02,WEST,Kennedy,µg/m³,56.8,01 a.m.,62.3,09 a.m.
@@ -59,9 +52,8 @@ fecha,zona,estacion,unidades,pm25_24h,hora_24h,pm25_1h,hora_1h
 2010-08-19,WEST,Kennedy,µg/m³,50.2,01 a.m.,70.3,09 a.m.
 2010-08-21,WEST,Kennedy,µg/m³,50.9,09 a.m.,74.0,09 a.m.
 2010-08-22,WEST,Kennedy,µg/m³,53.4,12 a.m.,71.3,07 p.m.
-2010-08-23,WEST,Kennedy,µg/m³,75.8,08 p.m.,126.2,08 a.m.
-2010-08-24,WEST,Kennedy,µg/m³,71.9,02 a.m.,98.3,11 p.m.
-2010-08-25,WEST,Kennedy,µg/m³,75.9,11 a.m.,131.0,09 a.m.
+2010-08-23,CENTRAL,Centro de Alto Rendimiento,µg/m³,51.1,11 a.m.,75.1,10 a.m.
+2010-08-25,CENTRAL,Centro de Alto Rendimiento,µg/m³,58.8,09 a.m.,71.9,08 a.m.
 2010-08-26,WEST,Kennedy,µg/m³,59.9,01 a.m.,73.5,12 a.m.
 2010-08-27,WEST,Kennedy,µg/m³,57.5,01 p.m.,98.3,02 a.m.
 2010-09-09,WEST,Kennedy,µg/m³,50.6,11 p.m.,92.7,04 a.m.
@@ -69,13 +61,11 @@ fecha,zona,estacion,unidades,pm25_24h,hora_24h,pm25_1h,hora_1h
 2010-09-11,WEST,Kennedy,µg/m³,66.8,12 a.m.,119.8,12 a.m.
 2010-09-12,WEST,Kennedy,µg/m³,67.0,05 a.m.,77.0,09 a.m.
 2010-09-13,WEST,Kennedy,µg/m³,57.0,12 a.m.,82.3,10 p.m.
-2010-09-14,WEST,Kennedy,µg/m³,69.7,09 a.m.,153.2,07 a.m.
 2010-09-21,WEST,Kennedy,µg/m³,52.0,10 a.m.,77.0,10 a.m.
 2010-09-22,WEST,Kennedy,µg/m³,52.4,01 a.m.,69.8,01 a.m.
 2010-09-29,WEST,Kennedy,µg/m³,62.7,08 p.m.,95.8,09 a.m.
 2010-09-30,WEST,Kennedy,µg/m³,61.4,09 a.m.,111.5,09 p.m.
-2010-10-01,WEST,Kennedy,µg/m³,85.5,05 p.m.,180.0,07 a.m.
-2010-10-02,WEST,Kennedy,µg/m³,72.4,01 a.m.,71.8,07 a.m.
+2010-10-01,CENTRAL,Centro de Alto Rendimiento,µg/m³,51.0,05 p.m.,92.6,08 a.m.
 2010-10-06,WEST,Kennedy,µg/m³,63.1,11 a.m.,136.0,04 a.m.
 2010-10-07,WEST,Kennedy,µg/m³,63.0,01 a.m.,71.5,08 a.m.
 2010-10-16,WEST,Kennedy,µg/m³,53.7,06 a.m.,86.0,01 a.m.
@@ -94,8 +84,6 @@ fecha,zona,estacion,unidades,pm25_24h,hora_24h,pm25_1h,hora_1h
 2010-11-23,WEST,Kennedy,µg/m³,58.9,08 a.m.,89.8,08 a.m.
 2010-12-05,WEST,Kennedy,µg/m³,54.0,11 a.m.,69.0,06 a.m.
 2010-12-07,WEST,Kennedy,µg/m³,59.9,12 a.m.,222.3,11 p.m.
-2010-12-08,WEST,Kennedy,µg/m³,93.7,06 p.m.,136.8,01 a.m.
-2010-12-09,WEST,Kennedy,µg/m³,84.0,03 a.m.,149.0,01 a.m.
 2010-12-10,WEST,Kennedy,µg/m³,64.9,07 p.m.,144.7,09 a.m.
 2010-12-11,WEST,Kennedy,µg/m³,61.4,01 a.m.,102.3,09 a.m.
 2010-12-12,WEST,Kennedy,µg/m³,62.1,12 p.m.,94.0,10 a.m.
@@ -105,20 +93,16 @@ fecha,zona,estacion,unidades,pm25_24h,hora_24h,pm25_1h,hora_1h
 2010-12-22,WEST,Kennedy,µg/m³,59.4,09 p.m.,104.0,08 a.m.
 2010-12-23,WEST,Kennedy,µg/m³,56.4,12 a.m.,97.5,09 a.m.
 2010-12-24,WEST,Kennedy,µg/m³,57.4,02 a.m.,111.3,11 p.m.
-2010-12-25,WEST,Kennedy,µg/m³,76.0,10 a.m.,228.7,02 a.m.
 2010-12-26,WEST,Kennedy,µg/m³,54.9,01 a.m.,29.3,05 a.m.
 2011-02-11,WEST,Kennedy,µg/m³,57.3,09 p.m.,89.8,03 a.m.
 2011-02-12,WEST,Kennedy,µg/m³,54.9,01 a.m.,77.2,09 a.m.
 2011-02-15,WEST,Kennedy,µg/m³,55.5,10 a.m.,98.3,07 a.m.
 2011-02-25,WEST,Kennedy,µg/m³,60.6,12 a.m.,117.8,12 a.m.
-2011-02-26,WEST,Kennedy,µg/m³,70.4,07 p.m.,110.5,02 a.m.
 2011-02-27,WEST,Kennedy,µg/m³,56.5,01 a.m.,83.8,10 a.m.
 2011-03-05,WEST,Kennedy,µg/m³,60.7,04 p.m.,79.8,01 a.m.
 2011-03-08,WEST,Kennedy,µg/m³,50.8,12 a.m.,76.8,07 a.m.
 2011-03-09,WEST,Kennedy,µg/m³,50.7,01 a.m.,60.5,05 a.m.
 2011-03-16,WEST,Kennedy,µg/m³,61.3,12 a.m.,78.8,12 a.m.
-2011-03-17,WEST,Kennedy,µg/m³,74.5,11 p.m.,94.5,10 p.m.
-2011-03-18,WEST,Kennedy,µg/m³,74.7,11 a.m.,126.3,09 a.m.
 2011-03-19,WEST,Kennedy,µg/m³,56.0,01 a.m.,79.2,12 a.m.
 2011-03-20,WEST,Kennedy,µg/m³,50.2,03 p.m.,139.8,05 a.m.
 2011-04-07,WEST,Kennedy,µg/m³,51.2,12 a.m.,135.0,10 a.m.
@@ -170,7 +154,6 @@ fecha,zona,estacion,unidades,pm25_24h,hora_24h,pm25_1h,hora_1h
 2012-11-28,WEST,Kennedy,µg/m³,51.0,03 p.m.,91.7,09 a.m.
 2012-11-30,WEST,Kennedy,µg/m³,50.1,05 p.m.,93.3,02 a.m.
 2012-12-07,WEST,Kennedy,µg/m³,61.5,12 a.m.,218.3,11 p.m.
-2012-12-08,WEST,Kennedy,µg/m³,79.4,07 a.m.,136.0,01 a.m.
 2012-12-19,WEST,Kennedy,µg/m³,50.1,10 a.m.,75.0,08 a.m.
 2012-12-22,WEST,Kennedy,µg/m³,52.6,07 a.m.,79.7,03 a.m.
 2012-12-25,WEST,Kennedy,µg/m³,67.6,06 p.m.,208.7,02 a.m.
@@ -213,8 +196,8 @@ fecha,zona,estacion,unidades,pm25_24h,hora_24h,pm25_1h,hora_1h
 2014-04-01,WEST,Kennedy,µg/m³,67.5,01 a.m.,94.7,09 a.m.
 2014-04-02,WEST,Kennedy,µg/m³,57.4,07 a.m.,82.0,08 a.m.
 2014-05-17,WEST,Kennedy,µg/m³,54.5,08 p.m.,77.7,08 a.m.
-2014-06-27,WEST,Carvajal - Sevillana,µg/m³,78.2,11 p.m.,141.2,07 a.m.
-2014-06-28,WEST,Carvajal - Sevillana,µg/m³,76.3,01 a.m.,85.5,08 a.m.
+2014-06-27,WEST,Kennedy,µg/m³,59.6,10 p.m.,100.7,08 a.m.
+2014-06-28,WEST,Kennedy,µg/m³,57.8,01 a.m.,65.0,08 a.m.
 2014-10-10,WEST,Carvajal - Sevillana,µg/m³,60.7,08 p.m.,113.3,01 a.m.
 2014-10-11,WEST,Carvajal - Sevillana,µg/m³,56.8,11 a.m.,73.8,03 a.m.
 2014-10-24,WEST,Kennedy,µg/m³,53.0,09 p.m.,88.2,08 a.m.
@@ -228,7 +211,7 @@ fecha,zona,estacion,unidades,pm25_24h,hora_24h,pm25_1h,hora_1h
 2014-11-23,SOUTH,Tunal,µg/m³,50.5,01 a.m.,40.1,07 a.m.
 2014-12-06,SOUTH,Tunal,µg/m³,53.2,12 p.m.,110.3,11 a.m.
 2014-12-07,SOUTH,Tunal,µg/m³,62.4,12 a.m.,93.7,10 a.m.
-2014-12-08,SOUTH,Tunal,µg/m³,77.8,08 a.m.,141.9,03 a.m.
+2014-12-08,NORTH,Suba,µg/m³,54.8,08 a.m.,102.0,01 a.m.
 2014-12-09,WEST,Kennedy,µg/m³,53.9,01 a.m.,47.8,10 a.m.
 2014-12-13,WEST,Kennedy,µg/m³,51.9,05 p.m.,118.2,08 a.m.
 2014-12-17,WEST,Kennedy,µg/m³,54.1,12 p.m.,84.0,08 a.m.
@@ -240,10 +223,10 @@ fecha,zona,estacion,unidades,pm25_24h,hora_24h,pm25_1h,hora_1h
 2015-01-23,SOUTH,Tunal,µg/m³,51.9,11 p.m.,83.7,08 a.m.
 2015-01-24,SOUTH,Tunal,µg/m³,50.4,03 a.m.,78.1,12 p.m.
 2015-02-06,WEST,Movil 7ma,µg/m³,65.2,12 a.m.,114.2,03 p.m.
-2015-02-07,WEST,Movil 7ma,µg/m³,69.6,12 p.m.,96.5,11 a.m.
+2015-02-07,SOUTH,Tunal,µg/m³,54.8,03 a.m.,88.4,10 a.m.
 2015-02-08,WEST,Movil 7ma,µg/m³,59.1,07 a.m.,81.8,08 a.m.
-2015-02-10,WEST,Movil 7ma,µg/m³,70.1,12 a.m.,117.0,08 p.m.
-2015-02-11,WEST,Movil 7ma,µg/m³,71.3,06 a.m.,92.2,08 a.m.
+2015-02-10,SOUTH,Tunal,µg/m³,55.6,07 p.m.,103.0,09 a.m.
+2015-02-11,SOUTH,Tunal,µg/m³,52.9,01 a.m.,68.7,09 a.m.
 2015-02-12,WEST,Movil 7ma,µg/m³,51.0,04 a.m.,85.2,08 a.m.
 2015-02-18,WEST,Movil 7ma,µg/m³,61.6,11 p.m.,123.5,10 a.m.
 2015-02-19,WEST,Movil 7ma,µg/m³,62.3,08 a.m.,108.3,08 a.m.
